@@ -3,10 +3,10 @@ html {
 }
 
 .r1, .r2,  .r3, .r4 { 
-  display:  block; /* Блочный элемент */
-  height:  1px; /* Высота */
-  background:  lavender; /* Цвет фона */
-  overflow: hidden; /* Для IE6 */
+  display:  block;
+  height:  1px;
+  background:  lavender;
+  overflow: hidden;
 }
 .r1 { margin: 0 25em 0 25em; }
 .r2 { margin: 0 25em 0 25em; }
